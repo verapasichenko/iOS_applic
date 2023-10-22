@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  application
+//  lol
 //
 //  Created by Вера Пасиченко on 22.10.2023.
 //

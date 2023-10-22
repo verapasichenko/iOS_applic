@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  application
 //
-//  Created by Вера Пасиченко on 09.10.2023.
+//  Created by Вера Пасиченко on 22.10.2023.
 //
 
 import UIKit
